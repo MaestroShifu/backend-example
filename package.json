@@ -1,0 +1,22 @@
+{
+  "name": "backend-example",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba",
+  "main": "indes.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaestroShifu/backend-example.git"
+  },
+  "author": "MaestroShifu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaestroShifu/backend-example/issues"
+  },
+  "homepage": "https://github.com/MaestroShifu/backend-example#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
